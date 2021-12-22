@@ -1,7 +1,7 @@
-- 🔭 Atualmente estou trabalhando em... nada
-- 🌱 Atualmente estou aprendendo JavaScript
-- 👯 Estou procurando colaborar em projetos Front-end para aprimorar conhecimentos
-- 💬 Pergunte-me sobre astronogia
+Oiii! Eu sou a Rebeka 
+
+- 📝 Estou aprendendo a programar em JavaScript 
+- 📱 Faço sites com Front- end      
+- 🖥 HTML, CSS e JavaScript 
 - 😄 Pronomes: ela/dela
-- ⚡ Fato curioso: gosto muito de CSS
 
